@@ -1,8 +1,8 @@
 ---
-title: SF_9
+title: 
 description: Develop and 11deploy your first Java application using the SAP HANA Cloud Platform Tools for Java
 tags: [  tutorial>beginner, topic>cloud, topic>java, tutorial:products/content-and-collaboration/sap-mobile-cards]
-primary_tag: tutorial:product/sapHana
+primary_tag: test
 author_name: Abdel DADOUCHE egergeg
 time: 44
 ---
