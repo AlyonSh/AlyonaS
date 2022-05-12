@@ -7,11 +7,6 @@ author_name: Abdel DADOUCHE egergeg
 time: 44
 ---
 ## Prerequisites
-
----
-
----
-
 ---
 
 ## Next Steps
