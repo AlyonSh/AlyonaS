@@ -8,11 +8,12 @@ time: 44
 ---
 ## Prerequisites
 
-
+---
+---
 ## Next Steps
  - Select a tutorial from the [Tutorial Navigator new](http://go.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)
  
-
+---
 ## Details
 ### You will learn  
 TEST2
