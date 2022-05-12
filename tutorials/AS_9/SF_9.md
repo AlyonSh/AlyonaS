@@ -8,18 +8,12 @@ time: 44
 ---
 ## Prerequisites
 Develop and 11deploy your first Java application using the SAP HANA Cloud Platform Tools for Java
-
----
-
-## Next Steps
- - Select a tutorial from the [Tutorial Navigator new](http://go.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)
  
----
+--- 
+ 
 ## Details
 ### You will learn  
 TEST2
-
-
 
 ---
 
