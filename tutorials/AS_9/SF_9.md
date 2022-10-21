@@ -1,8 +1,8 @@
 ---
 title: Alyona_demo
 description: Develop and 11deploy your first Java application using the SAP HANA Cloud Platform Tools for Java
-tags: [  tutorial>beginner, topic>cloud, topic>java, tutorial:products/content-and-collaboration/sap-mobile-cards]
-primary_tag: tutorial>mobile
+primary_tag: products>sap-hana-dynamic-tiering
+tags: [  tutorial>beginner, products>sap-hana, products>sap-hana-dynamic-tiering, products>sap-hana-studio, topic>big-data, topic>sql, tutorial>license ]
 author_name: Abdel DADOUCHE egergeg
 time: 44
 ---
