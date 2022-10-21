@@ -1,8 +1,8 @@
 ---
 title: new4
 description: Create a database table in SAP Cloud Platform ABAP Environment and prefill it with data.
-primary_tag: products>sap-cloud-platform--abap-environment  
-tags: [  tutorial>beginner, topic>abap-development, products>sap-cloud-platform]
+primary_tag: products>sap-hana-dynamic-tiering
+tags: [  tutorial>beginner, products>sap-hana, products>sap-hana-dynamic-tiering, products>sap-hana-studio, topic>big-data, topic>sql, tutorial>license ]
 time: 10
 ---
 
