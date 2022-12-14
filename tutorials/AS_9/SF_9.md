@@ -7,7 +7,7 @@ author_name: Abdel DADOUCHE egergeg
 time: 44
 ---
 ## Prerequisites
-Develop and 11deploy your first Java application using the SAP HANA Cloud Platform Tools for Java
+Develop and 11deploy your first Java application using the SAP HANA Cloud Platform Tools for Java (test repository owner)
  
 --- 
  
